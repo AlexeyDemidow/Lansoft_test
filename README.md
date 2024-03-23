@@ -26,3 +26,14 @@
     - Указание Никнейма
     - Подписка на проекты
     - Исполняемый файл ```galxe.py```
+
+---
+
+## Установка и запуск
+
+- ```git clone https://github.com/AlexeyDemidow/Lansoft_test.git``` клонируем репозиторий
+- ```pip install -r requirements.txt``` устанавливаем зависимости
+- ```playwright install``` устанавливаем браузеры
+- ```python google.py``` запуск скрипта google
+- ```python twitter.py``` запуск скрипта twitter
+- ```python galxe.py``` запуск скрипта galxe
