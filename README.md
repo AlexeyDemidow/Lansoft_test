@@ -25,6 +25,10 @@
     - Подтверждение имейла
     - Указание Никнейма
     - Подписка на проекты
+    - Подписка на [Mind Network](https://galxe.com/MindNetwork/campaign/GCBv2t4Y26)
+    - Выполнены задания для [Mind Network](https://galxe.com/MindNetwork/campaign/GCBv2t4Y26):
+      1. *Подписка в твиттере*
+      2. *Вход в указанный канал дискорда*
     - Исполняемый файл ```galxe.py```
 
 ---
